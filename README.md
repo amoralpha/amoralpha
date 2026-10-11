@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ritik Mishra
+<img src="./assets/banner.svg" alt="Ritik Mishra - low-latency systems" width="100%"/>
 
 **Mathematics & Computing undergrad building low-latency systems and numerical software in modern C++23.**
 
@@ -38,6 +38,8 @@ Numerical computing library built from first principles in modern C++23. It is t
 ### [Blazebook](https://github.com/amoralpha/blazebook)
 
 Low-latency electronic trading infrastructure in C++23, starting from the limit order book and matching engine.
+
+<img src="./assets/pipeline.svg" alt="Market data to execution pipeline" width="100%"/>
 
 | Module | Status |
 |---|---|
