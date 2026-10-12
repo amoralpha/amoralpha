@@ -56,7 +56,8 @@ Benchmarking platform for trading infrastructure (JavaScript).
 ## Current Focus
 
 - Taking FlowForge through its v0.x releases
-- Competitive programming (Codeforces, ICPC preparation)
+- Linux systems and concurrency for low-latency work: sanitizers, epoll, atomics, profiling
+- Competitive programming (Codeforces)
 - Probability, stochastic processes and optimization for quantitative finance
 - Machine learning fundamentals
 
@@ -69,15 +70,7 @@ Benchmarking platform for trading infrastructure (JavaScript).
 
 ## Tech Stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
-![Ninja](https://img.shields.io/badge/Ninja-1A1A1A?logo=ninja&logoColor=white)
-![GCC](https://img.shields.io/badge/GCC-4EAA25?logo=gnu&logoColor=white)
-![Clang](https://img.shields.io/badge/Clang-262D3A?logo=llvm&logoColor=white)
-![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+<img src="./assets/stack.svg" alt="Tech stack. Languages: C++23, Python. Build and test: CMake, Ninja, GCC, Clang, GoogleTest, Google Benchmark, Catch2, clang-tidy, clang-format, GitHub Actions. Debug and profile: AddressSanitizer, UBSan, ThreadSanitizer, GDB, strace, perf, flamegraphs, Compiler Explorer. Systems: Linux (WSL2), POSIX syscalls, epoll, TCP sockets, tcpdump, Wireshark, Git. Concurrency: std::thread, mutex, condition_variable, atomics, lock-free SPSC queue." width="100%"/>
 
 ## Contact
 
