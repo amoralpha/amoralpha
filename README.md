@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a first-year B.Tech student in Mathematics and Computing at RGIPT. Most of my engineering time goes into systems software in C++23: workflow engines, numerical libraries, and trading infrastructure.
+I'm a Second-year B.Tech student in Mathematics and Computing at RGIPT. Most of my engineering time goes into systems software in C++23: workflow engines, numerical libraries, and trading infrastructure.
 
 I like working on the layer underneath research and trading systems, and I build things from scratch to understand every layer instead of treating libraries as black boxes. Performance claims in my repos are backed by benchmarks, not intuition.
 
