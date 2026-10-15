@@ -20,7 +20,7 @@ I like working on the layer underneath research and trading systems, and I build
 
 ## Projects
 
-### [FlowForge](https://github.com/amoralpha/FLowforge)
+### [Cache-Aware Workflow Orchestrator](https://github.com/amoralpha/Cache-Aware Workflow Orchestrator)
 
 High-performance C++23 workflow orchestration engine: DAG-based task scheduling, parallel execution, failure handling, and content-based caching. Developed incrementally from v0.1 towards v1.0.
 
