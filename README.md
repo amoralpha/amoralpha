@@ -14,13 +14,13 @@
 
 ## About
 
-I'm a Second-year B.Tech student in Mathematics and Computing at RGIPT. Most of my engineering time goes into systems software in C++23: workflow engines, numerical libraries, and trading infrastructure.
+I'm a second-year B.Tech student in Mathematics and Computing at RGIPT. Most of my engineering time goes into systems software in C++23: workflow engines, numerical libraries, and trading infrastructure.
 
 I like working on the layer underneath research and trading systems, and I build things from scratch to understand every layer instead of treating libraries as black boxes. Performance claims in my repos are backed by benchmarks, not intuition.
 
 ## Projects
 
-### [Cache-Aware Workflow Orchestrator](https://github.com/amoralpha/Cache-Aware Workflow Orchestrator)
+### [Cache-Aware Workflow Orchestrator](https://github.com/amoralpha/Cache-Aware-Workflow-Orchestrator)
 
 High-performance C++23 workflow orchestration engine: DAG-based task scheduling, parallel execution, failure handling, and content-based caching. Developed incrementally from v0.1 towards v1.0.
 
@@ -55,7 +55,7 @@ Benchmarking platform for trading infrastructure (JavaScript).
 
 ## Current Focus
 
-- Taking FlowForge through its v0.x releases
+- Taking Cache-Aware Workflow Orchestrator through its v0.x releases
 - Linux systems and concurrency for low-latency work: sanitizers, epoll, atomics, profiling
 - Competitive programming (Codeforces)
 - Probability, stochastic processes and optimization for quantitative finance
